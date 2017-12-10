@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Somos Padres Primerizos
+description: Somos Alberto y Laura y aquí contamos nuestra experiencia criando a nuestra recién nacida Alejandra
+keywords: Padres, Primerizos, Bebé, Recién nacido
+author: alrocar
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

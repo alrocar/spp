@@ -1,9 +1,9 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "El registro del bebé"
+subtitle: "Todos los trámites después del nacimiento de tu bebé"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/registro-bebe.jpg"
 date:   2015-04-20 12:12:12
 ---
 
